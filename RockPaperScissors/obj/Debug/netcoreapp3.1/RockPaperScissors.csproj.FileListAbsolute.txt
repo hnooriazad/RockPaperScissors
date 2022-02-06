@@ -1,0 +1,17 @@
+D:\Develope\C#\GitProjects\RockPaperScissors\RockPaperScissors\bin\Debug\netcoreapp3.1\RockPaperScissors.exe
+D:\Develope\C#\GitProjects\RockPaperScissors\RockPaperScissors\bin\Debug\netcoreapp3.1\RockPaperScissors.deps.json
+D:\Develope\C#\GitProjects\RockPaperScissors\RockPaperScissors\bin\Debug\netcoreapp3.1\RockPaperScissors.runtimeconfig.json
+D:\Develope\C#\GitProjects\RockPaperScissors\RockPaperScissors\bin\Debug\netcoreapp3.1\RockPaperScissors.runtimeconfig.dev.json
+D:\Develope\C#\GitProjects\RockPaperScissors\RockPaperScissors\bin\Debug\netcoreapp3.1\RockPaperScissors.dll
+D:\Develope\C#\GitProjects\RockPaperScissors\RockPaperScissors\bin\Debug\netcoreapp3.1\RockPaperScissors.pdb
+D:\Develope\C#\GitProjects\RockPaperScissors\RockPaperScissors\obj\Debug\netcoreapp3.1\RockPaperScissors.csprojAssemblyReference.cache
+D:\Develope\C#\GitProjects\RockPaperScissors\RockPaperScissors\obj\Debug\netcoreapp3.1\RockPaperScissors.GameForm.resources
+D:\Develope\C#\GitProjects\RockPaperScissors\RockPaperScissors\obj\Debug\netcoreapp3.1\RockPaperScissors.Main.resources
+D:\Develope\C#\GitProjects\RockPaperScissors\RockPaperScissors\obj\Debug\netcoreapp3.1\RockPaperScissors.csproj.GenerateResource.cache
+D:\Develope\C#\GitProjects\RockPaperScissors\RockPaperScissors\obj\Debug\netcoreapp3.1\RockPaperScissors.AssemblyInfoInputs.cache
+D:\Develope\C#\GitProjects\RockPaperScissors\RockPaperScissors\obj\Debug\netcoreapp3.1\RockPaperScissors.AssemblyInfo.cs
+D:\Develope\C#\GitProjects\RockPaperScissors\RockPaperScissors\obj\Debug\netcoreapp3.1\RockPaperScissors.csproj.CoreCompileInputs.cache
+D:\Develope\C#\GitProjects\RockPaperScissors\RockPaperScissors\obj\Debug\netcoreapp3.1\RockPaperScissors.dll
+D:\Develope\C#\GitProjects\RockPaperScissors\RockPaperScissors\obj\Debug\netcoreapp3.1\RockPaperScissors.pdb
+D:\Develope\C#\GitProjects\RockPaperScissors\RockPaperScissors\obj\Debug\netcoreapp3.1\RockPaperScissors.genruntimeconfig.cache
+D:\Develope\C#\GitProjects\RockPaperScissors\RockPaperScissors\obj\Debug\netcoreapp3.1\RockPaperScissors.Properties.Resources.resources
