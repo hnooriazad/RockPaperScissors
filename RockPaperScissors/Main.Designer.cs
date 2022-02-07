@@ -61,7 +61,7 @@
             this.Controls.Add(this.button1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedToolWindow;
             this.Name = "Main";
-            this.Text = "Main";
+            this.Text = "Rock Paper Scissors";
             this.ResumeLayout(false);
 
         }
